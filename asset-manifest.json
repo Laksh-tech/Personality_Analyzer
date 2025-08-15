@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-react-project/static/css/main.aa08d7df.css",
-    "main.js": "/my-react-project/static/js/main.7891ad62.js",
-    "static/js/453.3cfa7268.chunk.js": "/my-react-project/static/js/453.3cfa7268.chunk.js",
-    "index.html": "/my-react-project/index.html",
-    "main.aa08d7df.css.map": "/my-react-project/static/css/main.aa08d7df.css.map",
-    "main.7891ad62.js.map": "/my-react-project/static/js/main.7891ad62.js.map",
-    "453.3cfa7268.chunk.js.map": "/my-react-project/static/js/453.3cfa7268.chunk.js.map"
+    "main.css": "/Personality_Analyzer/static/css/main.aa08d7df.css",
+    "main.js": "/Personality_Analyzer/static/js/main.45dcdbf2.js",
+    "static/js/453.3cfa7268.chunk.js": "/Personality_Analyzer/static/js/453.3cfa7268.chunk.js",
+    "index.html": "/Personality_Analyzer/index.html",
+    "main.aa08d7df.css.map": "/Personality_Analyzer/static/css/main.aa08d7df.css.map",
+    "main.45dcdbf2.js.map": "/Personality_Analyzer/static/js/main.45dcdbf2.js.map",
+    "453.3cfa7268.chunk.js.map": "/Personality_Analyzer/static/js/453.3cfa7268.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa08d7df.css",
-    "static/js/main.7891ad62.js"
+    "static/js/main.45dcdbf2.js"
   ]
 }
